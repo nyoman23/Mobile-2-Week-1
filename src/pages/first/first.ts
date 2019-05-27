@@ -27,4 +27,7 @@ export class FirstPage {
     console.log('ionViewDidLoad FirstPage');
   }
 
+
+  //test aja test git commit
+
 }
