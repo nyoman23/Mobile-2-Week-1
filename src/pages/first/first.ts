@@ -22,12 +22,12 @@ export class FirstPage {
   button2() {
     this.navCtrl.push(SecondPage);
   }
-
+/*
   ionViewDidLoad() {
     console.log('ionViewDidLoad FirstPage');
   }
 
 
-
+*/
 
 }
